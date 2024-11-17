@@ -3,6 +3,9 @@
 ## Description
 This project uses the CLIP model to identify clothing items in images. Users can upload an image, and the AI will predict the most likely type of clothing.
 
+## Link
+https://github.com/marcserranos/DATATHON_FME_mango_2024
+
 ## Features
 - Upload an image of clothing.
 - Get predictions on what type of clothing the image contains (e.g., shirt, pants, jacket).
